@@ -1,0 +1,46 @@
+body {
+  background-color: beige;
+  color: black;
+  width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: "Fira Sans", sans-serif;
+  line-height: 2;
+}
+.home-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-section p {
+  padding-right: 30px;
+}
+
+.work-img {
+  width: 200px;
+  border-radius: 20px;
+}
+
+.work-stations {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.social-media-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.social-media-links {
+  color: chocolate;
+}
+
+.social-media-icon {
+  width: 20px;
+  height: 20px;
+  padding: 10px;
+}
